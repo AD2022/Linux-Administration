@@ -1,5 +1,5 @@
-# Linux-Administration
-This project includes linux administration through RHEL 7 and CentOS 7
+# Linux-Administration - RHEL 7 | CentOS 7
+
 ▪ Installing CentOS 7 on Oracle VM Virtualbox
 ▪ User and group management through CLI while limiting the directory/file access
 ▪ worked on ext/vfat/xfs file systems
